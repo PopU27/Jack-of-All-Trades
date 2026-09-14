@@ -2,10 +2,8 @@
 A game I am making in unity similar to Buckshot Roulette but with blackjack.
 
 # Downloading
-Download the **ENTIRE** folder at builds/<your_os>/latest
-## Windows
-Run JackOfAllTrades.exe
-## Mac
-Run JackOfAllTrades.app
+Download the .zip folder at builds/windows/latest/
+## !!DELETE OLD BUILDS BEFORE GETTING THE NEW ONES!!
 
-Status - Early play testing only
+## Windows
+Once you have the .zip, extract it. You can now delete the .zip. Go into the folder you extracted and run JackOfAllTrades.exe
